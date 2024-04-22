@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PASKUMAR\\Desktop\\BankingApplication\\BankingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\PASKUMAR\\Desktop\\c# practise\\BankingApplication\\BankingApplication.csproj",
       "projectName": "BankingApplication",
-      "projectPath": "C:\\Users\\PASKUMAR\\Desktop\\BankingApplication\\BankingApplication.csproj",
+      "projectPath": "C:\\Users\\PASKUMAR\\Desktop\\c# practise\\BankingApplication\\BankingApplication.csproj",
       "packagesPath": "C:\\Users\\PASKUMAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PASKUMAR\\Desktop\\BankingApplication\\obj\\",
+      "outputPath": "C:\\Users\\PASKUMAR\\Desktop\\c# practise\\BankingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PASKUMAR\\AppData\\Roaming\\NuGet\\NuGet.Config"
