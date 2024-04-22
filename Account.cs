@@ -9,7 +9,7 @@ namespace BankingApplication
     {
         public int AccountNumber{get;set;}
         public string CustomerName{get;set;}
-        public double Balance;
+        public double Balance{get;set;}
 
         public Account(int accountNumber, string customerName, double initialBalance)
         {
