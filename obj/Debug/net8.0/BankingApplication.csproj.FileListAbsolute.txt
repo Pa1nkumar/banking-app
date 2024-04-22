@@ -1,0 +1,14 @@
+C:\Users\PASKUMAR\Desktop\BankingApplication\bin\Debug\net8.0\BankingApplication.exe
+C:\Users\PASKUMAR\Desktop\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+C:\Users\PASKUMAR\Desktop\BankingApplication\bin\Debug\net8.0\BankingApplication.runtimeconfig.json
+C:\Users\PASKUMAR\Desktop\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+C:\Users\PASKUMAR\Desktop\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\BankingApplication.genruntimeconfig.cache
+C:\Users\PASKUMAR\Desktop\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
